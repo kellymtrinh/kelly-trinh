@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/kellymtrinh/kelly-trinh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](/assets/about_me.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Unitled Goose Advice
+![Image of a goose saying databases can have a little injection as a treat](/assets/goose-db-injection.png)
+![Image of a goose saying always use the same password so it's easy to remember](/assets/goose-same-pw.png)
+![Image of a goose saying change control won't stop me, I can't read](/assets/goose-change-control.png)
 
-### Markdown
+### My bugs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of a frazzled bug](/assets/bug-1.png)
+![Image of a cute bug that's thriving](/assets/bug-2.png)
+![Image of a cute bug that says "you make me feel like a feature"](/assets/bug-3-valentine.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kellymtrinh/kelly-trinh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
