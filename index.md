@@ -1,6 +1,6 @@
 ## Welcome
 
-![Image](/assets/about_me.png)
+![Image](/assets/about_me.jpg)
 
 ### Unitled Goose Advice
 ![Image of a goose saying databases can have a little injection as a treat](/assets/goose-db-injection.jpg)
