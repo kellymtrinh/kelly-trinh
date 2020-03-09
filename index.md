@@ -10,6 +10,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kellymtrinh/), [GitHub
 ![Image of a goose saying change control won't stop me, I can't read](/assets/goose-change-control.jpg)
 
 ## My bugs
+![Gif of a shiny new feature with a bug on it](/assets/bug-feature.gif)
 ![Image of a frazzled bug](/assets/bug-1.jpg)
 ![Image of a cute bug that's thriving](/assets/bug-2.jpg)
 ![Image of a cute bug that says "you make me feel like a feature"](/assets/bug-3-valentine.jpg)
