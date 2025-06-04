@@ -4,7 +4,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kellymtrinh/), [GitHub
 
 ![Image](/assets/about_me.jpg)
 
-## Unitled Goose Advice
+## Untitled Goose Advice
 ![Image of a goose saying databases can have a little injection as a treat](/assets/goose-db-injection.jpg)
 ![Image of a goose saying always use the same password so it's easy to remember](/assets/goose-same-pw.jpg)
 ![Image of a goose saying change control won't stop me, I can't read](/assets/goose-change-control.jpg)
